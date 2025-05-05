@@ -37,7 +37,7 @@ I've led national-level hackathons, participated in many others, and strongly be
 ### 📘 [GradeHub](https://github.com/shreyaspathe/gradehub)  
 > A Python + Streamlit app where teachers can upload result CSVs, auto-process data (top performers, pass/fail, etc.), and allow students to view their own results.
 
-### 📰 [Fake News Detection App] (https://github.com/shreyaspathe/fakenews)  
+### 📰 [Fake News Detection App](https://github.com/shreyaspathe/fakenews)  
 > Built using Streamlit and ML models (Naive Bayes, SVM, CNN), this app analyzes news article URLs and displays animated confidence graphs and typewriter-style text output. Integrated with Firebase for user auth.
 
 ---
