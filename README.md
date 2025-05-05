@@ -6,9 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate and curious developer currently pursuing my Bachelor's in Information Technology Engineering. With hands-on experience in Python, JavaScript, and the MERN stack, I love building impactful, real-world applications—from result management tools to AI-driven apps and IoT-based assistive technologies.
-
-I've led national-level hackathons, participated in many others, and strongly believe in the power of collaboration, problem-solving, and clean code.
+I'm a passionate and curious developer currently pursuing my Bachelor's in Information Technology Engineering. With hands-on experience in Python, JavaScript, and the MERN stack, I enjoy building impactful, real-world applications—ranging from result management tools to AI-powered platforms and IoT-based assistive technologies. I'm also deeply passionate about finance and continuously explore how technology intersects with financial systems, investing, and data analysis. I've led national-level hackathons, participated in several others, and strongly believe in the power of collaboration, problem-solving, and writing clean, maintainable code.
 
 ---
 
