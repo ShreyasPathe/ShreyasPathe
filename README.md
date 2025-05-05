@@ -55,7 +55,7 @@ I've led national-level hackathons, participated in many others, and strongly be
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-pathe/)  
 📧 Email: `patheshreyas7@gmail.com`  
-📁 [View Resume](#) *(https://drive.google.com/file/d/1mNfrOeLR8ufaAuGM2vTstU6Mcsbm3giB/view?usp=sharing)*
+📁 [View Resume](https://drive.google.com/file/d/1mNfrOeLR8ufaAuGM2vTstU6Mcsbm3giB/view?usp=sharing)
 
 ---
 
