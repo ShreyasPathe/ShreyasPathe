@@ -60,7 +60,7 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-pathe/)  
-[![Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/logo.png)](https://www.naukri.com/code360/profile/shreyaspathe)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-orange?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/shreyaspathe)
 📧 Email: `patheshreyas7@gmail.com`  
 📁 [View Resume](https://drive.google.com/file/d/1mNfrOeLR8ufaAuGM2vTstU6Mcsbm3giB/view?usp=sharing)
 
