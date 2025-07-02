@@ -39,7 +39,7 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 
 ## 📌 Featured Projects 
 
-### 💰 [Welth] (https://github.com/shreyaspathe/finance)
+### 💰 [Welth](https://github.com/shreyaspathe/finance)
 A full-stack finance tracker and analytics platform that allows users to upload portfolio data (like Zerodha reports), auto-categorize transactions, and generate insightful dashboards. Built with React, Tailwind, Flask, and Supabase. Fully hosted on Vercel at financeai64.xyz.
 
 ### 📰 [Fake News Detection App](https://github.com/shreyaspathe/fakenews)  
