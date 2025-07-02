@@ -37,10 +37,10 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects 
 
-### 📘 [GradeHub](https://github.com/shreyaspathe/gradehub)  
-> A Python + Streamlit app where teachers can upload result CSVs, auto-process data (top performers, pass/fail, etc.), and allow students to view their own results.
+### 💰 [Welth] (https://github.com/shreyaspathe/finance)
+A full-stack finance tracker and analytics platform that allows users to upload portfolio data (like Zerodha reports), auto-categorize transactions, and generate insightful dashboards. Built with React, Tailwind, Flask, and Supabase. Fully hosted on Vercel at financeai64.xyz.
 
 ### 📰 [Fake News Detection App](https://github.com/shreyaspathe/fakenews)  
 > Built using Streamlit and ML models (Naive Bayes, SVM, CNN), this app analyzes news article URLs and displays animated confidence graphs and typewriter-style text output. Integrated with Firebase for user auth.
@@ -49,8 +49,9 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 
 ## 🏆 Highlights
 
+- 🥇 **Top 4 in Technova(AI Domain), a National Level Hackathon** (2024)
 - 🥇 **State-Level Gold Medallist in Badminton** (2018)
-- 🎤 **Deputy Hackathon Head** – Organized 30-hour national-level hackathon
+- 🎤 **Deputy Hackathon Head** – Spearheaded a 30-hour national-level hackathon
 - 🏅 **SEBI Certified Investor**
 - 🎓 **Cybersecurity Honors Track**
 
@@ -70,5 +71,3 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaspathe&layout=compact&theme=tokyonight)
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
