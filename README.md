@@ -31,6 +31,9 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-F44B4B?style=for-the-badge&logo=clerk&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-000000?style=for-the-badge&logo=arcjet&logoColor=white)
 
 ---
 
