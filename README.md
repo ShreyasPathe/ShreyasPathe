@@ -61,7 +61,6 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-pathe/) 
 [![Email](https://img.shields.io/badge/Email-patheshreyas7%40gmail.com-red?logo=gmail&logoColor=white)](mailto:patheshreyas7@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=readthedocs&logoColor=white)]((https://drive.google.com/file/d/1mNfrOeLR8ufaAuGM2vTstU6Mcsbm3giB/view?usp=sharing))
 
 ---
 
