@@ -43,7 +43,7 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 > A full-stack finance tracker and analytics platform that allows users to scan receipts with AI, auto-categorize transactions, and generate insightful dashboards. Built with React, Tailwind, Clerk and Supabase. Fully hosted on Vercel at [financeai64.xyz](https://financeai64.xyz).
 
 ### 📰 [Fake News Detection App](https://github.com/shreyaspathe/fakenews)  
-> Built using Streamlit and ML models (Naive Bayes, SVM, CNN), this app analyzes news article URLs and displays animated confidence graphs and typewriter-style text output. Integrated with Firebase for user auth.
+> Built using Streamlit and ML models (Naive Bayes, SVM, CNN), this app analyzes news article URLs and displays animated confidence graphs and typewriter-style text output. Integrated with Firebase for user auth. Hosted on firbase at [fakenewsapp](fakenewsdetects.streamlit.app/).
 
 ---
 
