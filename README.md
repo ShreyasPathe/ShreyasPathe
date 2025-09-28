@@ -51,7 +51,7 @@ I'm a passionate and curious developer currently pursuing my Bachelor's in Infor
 
 - 🥇 **Top 4 in Technova(AI Domain), a National Level Hackathon** (2024)
 - 🥇 **State-Level Gold Medallist in Badminton** (2018)
-- 🎤 **Deputy Hackathon Head** – Spearheaded a 30-hour national-level hackathon
+- 🎤 **Joint Hackathon Head** – Spearheaded a 30-hour national-level hackathon
 - 🏅 **SEBI Certified Investor**
 - 🎓 **Cybersecurity Honors Track**
 
