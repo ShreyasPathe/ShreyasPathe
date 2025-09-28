@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shreyas Pathe
 
-🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🎯 Hackathon Leader | 🧠 Lifelong Learner
+🚀 Full Stack Developer | 📊 Data Science| 🛡️ Technology Enthusiast | 🎯 Hackathon Leader | 🧠 Lifelong Learner
 
 ---
 
